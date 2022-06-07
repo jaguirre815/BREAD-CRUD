@@ -1,9 +1,21 @@
 body {
-    background-color: floralwhite;
+  background-color: floralwhite;
 }
 
 img {
-    width: 50%;
-    display: block;
-    margin: auto;
+  width: 50%;
+  display: block;
+  margin: auto;
+}
+
+.container h3 {
+  text-align: center;
+}
+.container p {
+  text-align: center;
+}
+
+.delete-bread-form {
+  display: flex;
+  justify-content: center;
 }
