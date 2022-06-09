@@ -34,4 +34,3 @@ async function seedDB() {
         res.send("ERROR") 
     }
 }
-//seedDB()

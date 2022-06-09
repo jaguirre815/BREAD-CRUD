@@ -7,15 +7,3 @@ img {
   display: block;
   margin: auto;
 }
-
-.container h3 {
-  text-align: center;
-}
-.container p {
-  text-align: center;
-}
-
-.delete-bread-form {
-  display: flex;
-  justify-content: center;
-}
